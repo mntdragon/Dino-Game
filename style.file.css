@@ -20,6 +20,7 @@
 .header-container__image.visible {
   opacity: 1;
   filter: alpha(opacity=100);
+  transition: all 0.3s ease-in-out 1.7s;
   -webkit-transition: all 0.3s ease-in-out 1.7s;
 }
 

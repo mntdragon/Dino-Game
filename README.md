@@ -20,3 +20,4 @@ An experiment stimulates Secret Google Chrome Dinasaur Game
 2. ```npm run dev```
 3. open ```localhost:8080```
 
+![alt text](Thumnail.png "Watch out it is a snapshot")
