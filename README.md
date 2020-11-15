@@ -11,7 +11,9 @@ An experiment stimulates Secret Google Chrome Dinasaur Game
 ## How to play
 
 <kbd>SPACE</kbd> jump
+
 <kbd>KEYDOWN</kbd> lower
+
 <kbd>ENTER</kbd> restart
 
 ## Try it out
